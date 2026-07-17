@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @biffbaff64. I'm a retired C Embedded Software Engineer of @40 years experience.
+- 👋 Retired C Embedded Software Engineer of @40 years experience.
 - 👀 I’m interested in hobbyist game development using Java/LibGDX and C#/MonoGame. I'm doing this to keep my brain active, and I enjoy coding.
-- 🌱 I'm currently working on a C# conversion of the LibGDX Game Framework, and have a Zig conversion planned, and possibly a C++ version.
-- I'm also learning to use Unity, and planning on learning Rust, Zig, Nim and Odin.
+- 🌱 I'm currently working on a C# conversion of the LibGDX Game Framework.
 - 💞️ I'm open to collaberating on pretty much anything.
 - 📫 How to reach me ... email at richikin@gmail.com
 
